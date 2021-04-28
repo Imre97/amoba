@@ -58,7 +58,7 @@ function App() {
   const winner = CalculateWinner(board)
 
   const  checkWinnerName = () => {
-    if(winner === playerOneMark){
+    if(winner === playerOneMark || winner === 'X'){
       return playerOne
     }else {
       return playerTwo
