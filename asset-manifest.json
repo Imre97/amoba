@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amoba/static/css/main.27011ca4.chunk.css",
+    "main.js": "/amoba/static/js/main.8f18dee9.chunk.js",
+    "main.js.map": "/amoba/static/js/main.8f18dee9.chunk.js.map",
+    "runtime-main.js": "/amoba/static/js/runtime-main.c3259d75.js",
+    "runtime-main.js.map": "/amoba/static/js/runtime-main.c3259d75.js.map",
+    "static/js/2.a5181114.chunk.js": "/amoba/static/js/2.a5181114.chunk.js",
+    "static/js/2.a5181114.chunk.js.map": "/amoba/static/js/2.a5181114.chunk.js.map",
+    "index.html": "/amoba/index.html",
+    "static/css/main.27011ca4.chunk.css.map": "/amoba/static/css/main.27011ca4.chunk.css.map",
+    "static/js/2.a5181114.chunk.js.LICENSE.txt": "/amoba/static/js/2.a5181114.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3259d75.js",
+    "static/js/2.a5181114.chunk.js",
+    "static/css/main.27011ca4.chunk.css",
+    "static/js/main.8f18dee9.chunk.js"
+  ]
+}
